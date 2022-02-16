@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer engineering plus travelling
 - 🌱 I’m currently learning at Faculty of Engineering University of Sri Jayewardenepura
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me via email : mnuwanjith@gmail.com
+- 📫 How to reach me via email : nuwanjithwork@yahoo.com
 
 <!---
 NuwanjithG/NuwanjithG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
